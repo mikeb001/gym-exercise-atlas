@@ -1,4 +1,4 @@
-const CACHE = 'gym-atlas-v18';
+const CACHE = 'gym-atlas-v20';
 const APP = './';
 const ASSETS = [
   './',
